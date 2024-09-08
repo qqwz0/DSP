@@ -13,7 +13,7 @@ def discrete_convolution(x, y):
 
     return result
 
- 
+
 # Сигнали
 x = [6, 5, 4]
 y = [8, 1, 0]
